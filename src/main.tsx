@@ -56,7 +56,7 @@ const routerConfig = [
   }
 ]
 
-const browserRouterProps: BrowserRouterProps = { basename: '/' }
+const browserRouterProps: BrowserRouterProps = { basename: '/react-practice-7' }
 
 const router = createBrowserRouter(routerConfig, browserRouterProps)
 
